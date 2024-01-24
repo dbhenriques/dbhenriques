@@ -32,7 +32,7 @@ about me text
 [Hugging Face](https://huggingface.co "Hugging Face")<br/>
 [Kaggle](https://www.kaggle.com/dbhenriques "Kaggle")<br/>
 [LinkedIn](https://www.linkedin.com/in/daniamhenriques "LinkedIn")<br/>
-[Leetcode](https://www.leetcode.com "Leetcode")<br/>
+[Leetcode](https://leetcode.com/dbhenriques/"Leetcode")<br/>
 
 #
 
@@ -66,7 +66,5 @@ about me text
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dbhenriques&theme=tokyonight)](https://github.com/dbhenriques/github-readme-stats)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=nord)
-
-NOTE: Leetcode stats above is used as a placeholder for page design and does not represent my stats.
+![Leetcode Stats](https://leetcard.jacoblin.cool/dbhenriques?theme=nord)
 #

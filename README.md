@@ -1,6 +1,5 @@
 # Daniam Henriques
-
-**`Tagline`**
+**`Software, Networking, Cybersecurity and Cloud`**
 
 about me text
 

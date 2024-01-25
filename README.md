@@ -76,33 +76,63 @@ about me text
   
   <b>Amazon AWS</b>
   <ul>
-  <li>x</li>
+  <li>AWS Cloud fundamentals</li>
+  <li>AWS Solutions Architect Associate</li>
+  <li>AWS Solutions Developer Associate</li>
   </ul>
 
   <b>Comptia</b>
   <ul>
-  <li>x</li>
+  <li>Linux+</li>
+  <li>Network+</li>
+  <li>Security+</li>
   </ul>
   
   <b>Cisco</b>
   <ul>
-  <li>x</li>
+  <li>Cisco Certified Design Professional (CCDP)</li>
+  <li>Cisco Certified Inter-network Professional (CCIP)</li>
+  <li>Cisco Certified Networking Professional (CCNP)</li>
+  <li>Cisco Certified Design Associate (CCDA)</li>
+  <li>Cisco Certified Networking Associate (CCNA)</li>
   </ul>
 
   <b>EC-Council</b>
   <ul>
-  <li>x</li>
+  <li>Licensed Penetration Tester (LPT) (Master)</li>
+  <li>Certified Ethical Hacker (CEH) (Master)</li>
   </ul>  
 
   <b>Microsoft Azure</b>
   <ul>
-  <li>x</li>
+  <li>Azure Fundamentals</li>
+  <li>Azure Network Engineer Associate</li>
   </ul>  
+
+  <b>INE / E-LearnSecurity</b>
+  <ul>
+  <li>eJPT Junior Penetration Tester</li>
+  </ul>    
 
   <b>Juniper</b>
   <ul>
-  <li>x</li>
+  <li>Juniper Networks Certified Internet Associate (DevOPS) (JNCIA-DevOPS)</li>
+  <li>Juniper Networks Certified Internet Associate (Cloud) (JNCIA-Cloud)</li>
+  <li>Juniper Networks Certified Design Associate (Junos) (JNCIA-Design)</li>
+  <li>Juniper Networks Certified Design Specialist (JNCIS-SP) (Service Provider Design)</li>
   </ul>  
+
+  <b>VMware</b>
+  <ul>
+  <li>VMware Certified Professional – Network Virtualization</li>
+  <li>VMware Certified Associate 6 – Data Center Virtualization</li>
+  <li>VMware Certified Associate 6 – Network Virtualization</li>
+  </ul>    
+
+  <b>Schneider Electric</b>
+  <ul>
+  <li>Schneider Electric Data Center Certified Associate</li>
+  </ul>      
   
 </details>
 

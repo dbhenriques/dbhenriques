@@ -66,7 +66,20 @@ about me text
 <details>
  <summary><h3>Industry Certifications and Education</h3></summary>
 
+  <b>Degrees</b>
+  <ul>
+  <li>BSc (Hons) Computer Science (Machine Learning and Artificial Intelligence)</li>
+    University of London
+  </ul>  
+
+  </br>
+  
   <b>Amazon AWS</b>
+  <ul>
+  <li>x</li>
+  </ul>
+
+  <b>Comptia</b>
   <ul>
   <li>x</li>
   </ul>
@@ -75,6 +88,11 @@ about me text
   <ul>
   <li>x</li>
   </ul>
+
+  <b>EC-Council</b>
+  <ul>
+  <li>x</li>
+  </ul>  
 
   <b>Microsoft Azure</b>
   <ul>
@@ -85,6 +103,7 @@ about me text
   <ul>
   <li>x</li>
   </ul>  
+  
 </details>
 
 #   

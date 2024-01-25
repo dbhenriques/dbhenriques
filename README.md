@@ -63,6 +63,32 @@ about me text
 
 #
 
+<details>
+ <summary><h3>Industry Certifications and Education</h3></summary>
+
+  <b>Amazon AWS</b>
+  <ul>
+  <li>x</li>
+  </ul>
+  
+  <b>Cisco</b>
+  <ul>
+  <li>x</li>
+  </ul>
+
+  <b>Microsoft Azure</b>
+  <ul>
+  <li>x</li>
+  </ul>  
+
+  <b>Juniper</b>
+  <ul>
+  <li>x</li>
+  </ul>  
+</details>
+
+#   
+
 ### Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dbhenriques&theme=tokyonight)](https://github.com/dbhenriques/github-readme-stats)

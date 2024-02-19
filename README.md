@@ -140,7 +140,4 @@ about me text
 
 ### Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dbhenriques&theme=tokyonight)](https://github.com/dbhenriques/github-readme-stats)
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/dbhenriques?theme=nord)
 #
